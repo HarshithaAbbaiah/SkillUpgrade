@@ -1,2 +1,2 @@
 # SkillUpgrade
-skillupgrade project
+Data Science project
